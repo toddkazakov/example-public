@@ -1,0 +1,3 @@
+[submodule "example-private"]
+	path = example-private
+	url = git@github.com:toddkazakov/example-private.git
