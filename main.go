@@ -1,9 +1,10 @@
 package main
 
 import (
-    "fmt"
-    _ "github.com/toddkazakov/example-public/public"
-    "github.com/toddkazakov/example-public/registry"
+	"fmt"
+	_ "github.com/toddkazakov/example-public/example-private"
+	_ "github.com/toddkazakov/example-public/public"
+	"github.com/toddkazakov/example-public/registry"
 )
 
 func main() {
